@@ -1,0 +1,7 @@
+AI DISCLOSURE
+
+AI USED: CHAT GPT
+	Used for mass generating images used for designs such as the letters for the head title "METHANE" and the white chalk outline for the design on the Methane infographic. The AI was also used to check if the informations used are accurate and has also been used to check if the drawn vector image from ketcher were correct. The AI was also used to suggest designs by sending image of the entire infographic then reading suggestions for improvement on the design.
+
+AI USED: Claude AI
+	Used to look for researches related to the topic and used to extract some texts that were hard to find which then got revised by the creator of the Infographic.
